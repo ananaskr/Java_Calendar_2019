@@ -1,0 +1,29 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Day16:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Day16_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Day16/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Day16" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="hibernate-core-6.0.0.Alpha3" />
+          <element id="library" level="project" name="mysql-connector-java-8.0.15" />
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="jboss-logging-3.3.0.Final" />
+          <element id="library" level="project" name="hibernate-jpa-2.1-api-1.0.0.Final" />
+          <element id="library" level="project" name="jta-1.1" />
+          <element id="library" level="project" name="classmate-1.0.0" />
+          <element id="library" level="project" name="byte-buddy-1.10.6" />
+          <element id="library" level="project" name="hibernate-commons-annotations-5.0.1.Final" />
+          <element id="library" level="project" name="dom4j-2.1.1" />
+          <element id="library" level="project" name="javax.persistence-api-2.2" />
+          <element id="library" level="project" name="antlr4-4.7" />
+          <element id="library" level="project" name="antlr4-runtime-4.7.1" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>

@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="aopalliance-1.0">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/lib/aopalliance-1.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

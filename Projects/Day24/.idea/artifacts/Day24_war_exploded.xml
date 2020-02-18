@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="Day24:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/Day24_war_exploded</output-path>
+    <root id="root">
+      <element id="javaee-facet-resources" facet="Day24/web/Web" />
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="Day24" />
+        </element>
+        <element id="directory" name="lib">
+          <element id="library" level="project" name="Spring-5.2.3.RELEASE" />
+          <element id="library" level="project" name="Spring MVC-5.2.3.RELEASE" />
+          <element id="library" level="project" name="xstream-1.4.10" />
+          <element id="library" level="project" name="xmlpull-1.1.3.1" />
+          <element id="library" level="project" name="xpp3-1.1.6" />
+        </element>
+      </element>
+    </root>
+  </artifact>
+</component>
